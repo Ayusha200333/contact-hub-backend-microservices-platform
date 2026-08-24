@@ -1,0 +1,9 @@
+[submodule "contact-hub-eureka-server"]
+	path = contact-hub-eureka-server
+	url = https://github.com/Ayusha200333/contact-hub-eureka-server.git
+[submodule "contact-hub-config-server"]
+	path = contact-hub-config-server
+	url = https://github.com/Ayusha200333/contact-hub-config-server.git
+[submodule "contact-hub-api-gateway"]
+	path = contact-hub-api-gateway
+	url = https://github.com/Ayusha200333/contact-hub-api-gateway.git
